@@ -7,7 +7,7 @@ Built for the web, iR Engine stands unparalled in the intersection of cutting ed
 
 
 ## [Documentation](https://docs.ir.world/)
-## [Tech Documentation](https://etherealengine.github.io/etherealengine-docs/)
+## [Tech Documentation](https://app.archbee.com/public/PREVIEW-G_Kn_XtWasJmPy3-KJn4x)
 
 #### Getting Started
 ## [Download Control Center](https://github.com/EtherealEngine/etherealengine-control-center/releases)
